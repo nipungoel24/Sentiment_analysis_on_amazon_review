@@ -42,7 +42,7 @@ http://localhost:5000
 
 | Method | Endpoint  | Description |
 |--------|----------|-------------|
-| POST   | `/predict` | Accepts a review as input and returns its sentiment (positive/negative/neutral). |
+| POST   | `/predict` | Accepts a review as input and returns its sentiment (positive/negative). |
 
 ## Future Enhancements
 - Implement deep learning models for better accuracy
