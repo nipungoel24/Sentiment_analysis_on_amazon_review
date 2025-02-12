@@ -52,5 +52,3 @@ http://localhost:5000
 ## Contributions  
 Feel free to fork the repo and open a pull request with your improvements!
 ```
-
-This version maintains proper Markdown formatting, ensuring readability on GitHub. Let me know if you need any modifications!
